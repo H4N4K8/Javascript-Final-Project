@@ -1,0 +1,12 @@
+GAME DESCRIPTIONS:
+
+1. Tic-Tac-Toe is a two player game where the goal is to get three in a row! Use your straegy skills to outsmart your friends! First to three wins!
+2.  Snake is a one player game where you guide a snake to is food. As the snake eats its grows! Try to get your highestscore adn your longest snake!
+3.  Pong is a one player game where you move a platform to keep the ball out of your area. 
+
+COPYRIGHT INFORMATION: 
+
+If a .html file is reproduced, please provide credits to the author in the page interface.
+If a .js or .css file is reproduced, please provide credits to the author in the comments or documentation.
+
+Hannah Francis ©2024
